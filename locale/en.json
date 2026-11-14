@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Speech to MP3",
+    "description": "Adds the tts_to_mp3 tool: reads text or a Markdown file aloud with the DeepSeek speech API and saves one MP3 file. Pass text or a file path; the male voice tide is the default and stella is the female voice. Long input is split into several requests and joined, then encoded in-process, so no ffmpeg is needed. Each call sends the text to api.deepseek.com and bills speech characters; read DEEPSEEK_API_KEY from the environment. Turn the plugin off to remove the tool and stop the requests.",
+    "detail": "docs/DETAIL.md"
+  }
+}

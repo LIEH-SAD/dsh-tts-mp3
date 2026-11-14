@@ -1,0 +1,7 @@
+node_modules/
+*.mp3
+*.wav
+.DS_Store
+Thumbs.db
+*.local.js
+*.local.mjs

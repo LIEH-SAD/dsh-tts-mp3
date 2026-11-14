@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "语音转 MP3",
+    "description": "新增 tts_to_mp3 工具：用 DeepSeek 语音合成接口把文本或 Markdown 文件朗读出来，并保存为一个 MP3 文件。传入 text 或文件路径即可；默认男声 tide，女声为 stella。长文本会拆成多次请求后拼接，再在进程内编码，不需要 ffmpeg。每次调用都会把文本发送到 api.deepseek.com 并按字符计费；需要从环境变量读取 DEEPSEEK_API_KEY。停用该插件即可移除工具并停止请求。",
+    "detail": "docs/DETAIL.zh.md"
+  }
+}

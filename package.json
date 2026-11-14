@@ -1,0 +1,53 @@
+{
+  "name": "dsh-tts-mp3",
+  "version": "0.1.0",
+  "description": "Read text or Markdown aloud with the DeepSeek speech API and export an MP3 file — a DeepSeek Harness plugin.",
+  "type": "module",
+  "main": "index.js",
+  "exports": {
+    ".": "./index.js",
+    "./locale/*.json": "./locale/*.json",
+    "./icon": "./icon.svg"
+  },
+  "files": [
+    "index.js",
+    "lib",
+    "cordis.patch.yml",
+    "locale/*.json",
+    "docs",
+    "icon.svg",
+    "README.md",
+    "LICENSE"
+  ],
+  "dsh": {
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    }
+  },
+  "scripts": {
+    "check": "node --check index.js && node --check lib/tts.js && node --check lib/text.js",
+    "smoke": "node scripts/smoke.js"
+  },
+  "dependencies": {
+    "@breezystack/lamejs": "^1.2.7"
+  },
+  "keywords": [
+    "dsh",
+    "dsh-plugin",
+    "deepseek",
+    "tts",
+    "speech",
+    "mp3",
+    "text-to-speech"
+  ],
+  "author": "LIEH-SAD",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LIEH-SAD/dsh-tts-mp3.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LIEH-SAD/dsh-tts-mp3/issues"
+  },
+  "homepage": "https://github.com/LIEH-SAD/dsh-tts-mp3#readme"
+}

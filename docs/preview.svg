@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="300" viewBox="0 0 640 300" fill="none" role="img" aria-label="Text and Markdown become a single MP3 file">
+  <rect x="48" y="64" width="152" height="172" rx="16" fill="#4D6BFE" fill-opacity="0.1"/>
+  <rect x="72" y="92" width="104" height="10" rx="5" fill="#4D6BFE" fill-opacity="0.5"/>
+  <rect x="72" y="116" width="84" height="10" rx="5" fill="#4D6BFE" fill-opacity="0.32"/>
+  <rect x="72" y="140" width="96" height="10" rx="5" fill="#4D6BFE" fill-opacity="0.32"/>
+  <rect x="72" y="164" width="66" height="10" rx="5" fill="#4D6BFE" fill-opacity="0.32"/>
+  <rect x="72" y="188" width="88" height="10" rx="5" fill="#4D6BFE" fill-opacity="0.32"/>
+  <path d="M218 150h30" stroke="#4D6BFE" stroke-opacity="0.6" stroke-width="4" stroke-linecap="round"/>
+  <path d="M238 140l10 10-10 10" stroke="#4D6BFE" stroke-opacity="0.6" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="278" y="140" width="12" height="20" rx="6" fill="#4D6BFE" fill-opacity="0.75"/>
+  <rect x="302" y="124" width="12" height="52" rx="6" fill="#4D6BFE"/>
+  <rect x="326" y="108" width="12" height="84" rx="6" fill="#4D6BFE"/>
+  <rect x="350" y="88" width="12" height="124" rx="6" fill="#4D6BFE"/>
+  <rect x="374" y="108" width="12" height="84" rx="6" fill="#4D6BFE"/>
+  <rect x="398" y="124" width="12" height="52" rx="6" fill="#4D6BFE"/>
+  <rect x="422" y="140" width="12" height="20" rx="6" fill="#4D6BFE" fill-opacity="0.75"/>
+  <path d="M452 150h30" stroke="#4D6BFE" stroke-opacity="0.6" stroke-width="4" stroke-linecap="round"/>
+  <path d="M472 140l10 10-10 10" stroke="#4D6BFE" stroke-opacity="0.6" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="500" y="82" width="112" height="136" rx="18" fill="#4D6BFE"/>
+  <path d="M546 126l30 24-30 24V126Z" fill="#FFFFFF" fill-opacity="0.95"/>
+  <rect x="524" y="192" width="64" height="8" rx="4" fill="#FFFFFF" fill-opacity="0.55"/>
+</svg>

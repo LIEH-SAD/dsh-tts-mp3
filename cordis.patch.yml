@@ -1,0 +1,5 @@
+# dsh-tts-mp3 bundle patch.
+# The plugin row registers the `tts_to_mp3` model-facing tool.
+- insert:
+    - id: tts-mp3
+      name: dsh-tts-mp3
